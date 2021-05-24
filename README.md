@@ -1,8 +1,13 @@
 # plugin_codelab
 
-An exercise that create a flutter plugin, you can find the codelab here :https://codelabs.developers.google.com/codelabs/write-flutter-plugin?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab#0
+An exercise that create a flutter plugin,and triggers the platform version.
 
-and trigers the platform version 
+
+You can find the codelab here : 
+
+https://codelabs.developers.google.com/codelabs/write-flutter-plugin?utm_source=google-io&utm_medium=organic&utm_campaign=io21-learninglab#0
+
+ 
 
 ![p](https://user-images.githubusercontent.com/36349126/119261061-ecc9ac00-bbd5-11eb-9144-c1476f4c5629.png)
 
